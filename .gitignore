@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Output files
+tb_full*.xlsx
+*.xlsx
+!Balance Sheet by Month-*.xlsx
+!Profit and Loss by Month-*.xlsx
+
+# Logs
+*.log
